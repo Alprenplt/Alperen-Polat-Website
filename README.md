@@ -2,7 +2,7 @@
 # ALPEREN POLAT WEB SİTESİ (PORTFOLYO)
 
 ### Kullanılan Diller
-Bu web sitesi Visual Studio 2022 ile HTML, Css, JavaScript, Bootstrap kullanılarak yazılmıştır.
+Bu web sitesi Visual Studio 2022 ile HTML, Css, JavaScript, kullanılarak yazılmıştır.
 ### PROJE AMACI
  Bu sitede Yeteneklerime, eğitim bilgime, sosyal medya hesaplarıma ve projelerime ulaşabilirsiniz.
  ### Görseller
